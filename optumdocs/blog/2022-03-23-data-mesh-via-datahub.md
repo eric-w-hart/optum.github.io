@@ -62,7 +62,7 @@ We also have built plugin extensions to support custom internal platforms to ing
 
 Finally, DataHub’s event driven architecture provides us a mechanism to act on any metadata changes in real time. This allows us to perform various actions like provisioning access to a data product, notifying consumers on any schema changes that may affect their application or triggering data movement jobs to move data from source to sink platforms.
 
-Out engineering team will elaborate on these in more detail in future posts with specific tutorials and walk throughs!
+Our engineering team will elaborate on these in more detail in future posts with specific tutorials and walk throughs!
 
 #### Community
 
